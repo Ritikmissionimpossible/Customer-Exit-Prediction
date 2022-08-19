@@ -1,1 +1,1 @@
-# Predict_customer_Will_Leave_the-Bank
+# Customer exit prediction from bank
